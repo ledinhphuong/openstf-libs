@@ -1,0 +1,16 @@
+{
+  "name": "openstf-libs",
+  "version": "0.0.2",
+  "description": "OpenSTF Libraries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openstf",
+    "minicap",
+    "minitouch"
+  ],
+  "author": "Phuong Le <lephuong.info@gmail.com> (https://github.com/ledinhphuong)",
+  "license": "Ref https://github.com/openstf/stf/blob/master/LICENSE"
+}
